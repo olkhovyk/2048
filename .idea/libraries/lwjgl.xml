@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="lwjgl">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/lwjgl-2.9.3/jar/lwjgl.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/lwjgl-2.9.3/jar/lwjgl_util.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/lwjgl-2.9.3/jar/lwjgl_util_applet.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/lwjgl-2.9.3/jar/lwjgl-debug.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/lwjgl-2.9.3/jar/log4j-api-2.0-beta9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
